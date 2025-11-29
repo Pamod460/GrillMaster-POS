@@ -1,2 +1,2 @@
-# GrillMaster POS
+# DailyMart POS
 
